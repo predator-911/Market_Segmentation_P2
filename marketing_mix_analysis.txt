@@ -1,0 +1,60 @@
+Marketing Mix Analysis Report
+Target Cluster: 3
+Generated on: 2025-06-01 07:55:54.469126
+
+Cluster 6 Profile:
+  Size: 390 customers
+  Visit Frequency: 2.35
+  Like Score: 0.47
+  Female Proportion: 0.50
+  High Perceptions: ['convenient', 'fattening', 'fast', 'expensive']
+  Low Perceptions: ['spicy', 'cheap', 'healthy', 'disgusting']
+
+Cluster 2 Profile:
+  Size: 82 customers
+  Visit Frequency: 2.63
+  Like Score: 1.09
+  Female Proportion: 0.48
+  High Perceptions: ['convenient', 'fattening', 'greasy', 'tasty', 'expensive']
+  Low Perceptions: ['spicy']
+
+Cluster 1 Profile:
+  Size: 456 customers
+  Visit Frequency: 2.83
+  Like Score: 2.30
+  Female Proportion: 0.61
+  High Perceptions: ['yummy', 'convenient', 'fattening', 'fast', 'cheap', 'tasty']
+  Low Perceptions: ['spicy', 'expensive', 'healthy', 'disgusting']
+
+Cluster 5 Profile:
+  Size: 205 customers
+  Visit Frequency: 1.53
+  Like Score: -1.80
+  Female Proportion: 0.60
+  High Perceptions: ['convenient', 'fattening', 'fast', 'cheap']
+  Low Perceptions: ['yummy', 'spicy', 'tasty', 'expensive', 'healthy']
+
+Cluster 0 Profile:
+  Size: 60 customers
+  Visit Frequency: 2.58
+  Like Score: 2.00
+  Female Proportion: 0.48
+  High Perceptions: ['yummy', 'convenient', 'fattening', 'tasty', 'expensive']
+  Low Perceptions: ['spicy', 'greasy', 'cheap', 'disgusting']
+
+Cluster 4 Profile:
+  Size: 120 customers
+  Visit Frequency: 1.16
+  Like Score: -3.30
+  Female Proportion: 0.42
+  High Perceptions: ['fattening', 'greasy', 'expensive', 'disgusting']
+  Low Perceptions: ['yummy', 'spicy', 'cheap', 'tasty', 'healthy']
+
+Cluster 3 Profile:
+  Size: 140 customers
+  Visit Frequency: 3.09
+  Like Score: 3.23
+  Female Proportion: 0.51
+  High Perceptions: ['yummy', 'convenient', 'fast', 'cheap', 'tasty']
+  Low Perceptions: ['spicy', 'fattening', 'greasy', 'expensive', 'disgusting']
+
