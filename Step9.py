@@ -7,7 +7,7 @@ from sklearn.mixture import GaussianMixture
 def load_data(file_path):
     """
     Load data from CSV file.
-    Replace this function with your actual data loading logic.
+    
     """
     try:
         df = pd.read_csv(file_path)
